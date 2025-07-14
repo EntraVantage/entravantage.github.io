@@ -1,4 +1,4 @@
-<img src="assets/img/6aa9198c-5820-4e6e-bf52-3225b1b2674d.webp" alt="EntraVantage" width="400">
+<img src="assets/img/6aa9198c-5820-4e6e-bf52-3225b1b2674d.webp" alt="EntraVantage">
 
 **Status:**
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.entravantage.com)
